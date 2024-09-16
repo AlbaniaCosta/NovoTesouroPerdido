@@ -1,0 +1,3 @@
+README.md
+
+Para jogar, escolha 3 números que serão armazenados na primeira linha, dê enter e repita o mesmo processo por mais 2 vezes para criar uma tabela (matriz) com tres linhas e 3 colunas. no jogo, cada numero representa o valor de um tesouro e o pirata terá que percorrer o caminho que acumula o maior valor da soma dos tesouros, podendo andar somente para a direita e para baixo. o programa irá dizer o valor da maior soma do tesouro.
